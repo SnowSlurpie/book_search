@@ -39,4 +39,4 @@ This book search engine utilizes GraphQL with Apollo servers. With this search e
 
  ## Contact
 
- <!-- * Please contact me [here](mailto:YOURMEAILHERE) if you have any questions! -->
+ * Please contact me [here](mailto:alexjrunning@gmail.com) if you have any questions!
