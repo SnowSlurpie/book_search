@@ -12,7 +12,7 @@ This book search engine utilizes GraphQL with Apollo servers. With this search e
 
 ## Deployment Link
 
-<!-- * Visit [here](insertlinkhere) to see the application.-->
+* Visit [here](https://fierce-sea-31846.herokuapp.com/) to see the application.
 
 
 
@@ -25,7 +25,7 @@ This book search engine utilizes GraphQL with Apollo servers. With this search e
 
 ## Screenshot
 
-<!-- image link here lmaoo -->
+<img src="./image/screenshot.png">
 
 ## Aknowledgements
 
